@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RiseApp</string>
+    <string name="title_Home">Home</string>
+    <string name="title_NewsFeed">NewsFeed</string>
+    <string name="title_Profile">Profile</string>
+    <string name="title_Events">Events</string>
+    <string name="title_Search">Search</string>
+</resources>
